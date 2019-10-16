@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ghoffman\\source\\repos\\BDBPayrollFinder\\BDBPayrollFinder\\BDBPayrollFinder.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ghoffman\\source\\repos\\BDBPayrollFinder\\BDBPayrollFinder\\BDBPayrollFinder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ghoffman\\source\\repos\\BDBPayrollFinder\\BDBPayrollFinder\\BDBPayrollFinder.csproj",
+        "projectName": "BDBPayrollFinder",
+        "projectPath": "C:\\Users\\Ghoffman\\source\\repos\\BDBPayrollFinder\\BDBPayrollFinder\\BDBPayrollFinder.csproj",
+        "packagesPath": "C:\\Users\\Ghoffman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ghoffman\\source\\repos\\BDBPayrollFinder\\BDBPayrollFinder\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ghoffman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\temp\\nupkgs": {},
+          "http://li-devserver:81/nuget/Default": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
